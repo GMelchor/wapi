@@ -11,7 +11,7 @@ const Navbar = () => {
     const showNav = ()=>{
         setActive("navBar activeNavbar")
     }
-    //funcion para desactivar el nav
+    
     const removeNav = ()=>{
         setActive("navBar")
     }
